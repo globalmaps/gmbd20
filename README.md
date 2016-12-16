@@ -11,7 +11,7 @@ Credit: "Global Map of Bangladesh © ISCGM/ Survey of Bangladesh"
 
 Contact: Survey of Bangladesh.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/bangladesh.png)
+E-mail: ![email](email.png)
 
 Postal address: Surveyor General, Survey of Bangladesh, Tejgaon, Dhaka-1208, Bangladesh 
 
